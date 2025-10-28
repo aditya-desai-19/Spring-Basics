@@ -1,0 +1,73 @@
+# =====================================
+# Java + IntelliJ IDEA .gitignore
+# =====================================
+
+# --- Compiled class files ---
+*.class
+
+# --- Log files ---
+*.log
+
+# --- BlueJ files ---
+*.ctxt
+
+# --- Mobile Tools for Java (J2ME) ---
+.mtj.tmp/
+
+# --- Package files (generated artifacts) ---
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# --- Virtual machine crash logs ---
+hs_err_pid*
+replay_pid*
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+out/
+
+# --- Maven ---
+target/
+
+# --- Gradle ---
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# --- NetBeans (ignore if not using) ---
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# --- VS Code (optional, if you use it sometimes) ---
+.vscode/
+
+# --- OS-specific files ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# --- Temporary / backup files ---
+*.swp
+*.swo
+*.bak
+*.tmp
