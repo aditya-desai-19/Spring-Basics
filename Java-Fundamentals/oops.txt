@@ -1,0 +1,3 @@
+Why OOPS?
+-> Promotes code reusability, maintainability.
+-> Is fast compared to procedural
