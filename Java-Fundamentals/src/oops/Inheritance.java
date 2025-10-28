@@ -1,10 +1,10 @@
-/*
+package oops;/*
 Why inheritance?
 -> To promote reusability of code
  */
 
 class Parent {
-    protected String myVal = "Parent";
+    protected String myVal = "oops.Parent";
 }
 
 public class Inheritance extends Parent {

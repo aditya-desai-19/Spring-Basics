@@ -1,4 +1,4 @@
-/*
+package oops;/*
 Why abstraction?
 -> To hide certain details of class
  */

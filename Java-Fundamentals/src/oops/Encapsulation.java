@@ -1,4 +1,4 @@
-/*
+package oops;/*
 Why encapsulation?
 -> Better control
 -> Security
