@@ -1,0 +1,5 @@
+What is IOC(Inverion of control)?
+-> It is an principle which states that instead of we(ie: dev) creating objects(ie: beans) let Spring handles object creation and its lifecycle.
+
+What is DI(Dependency Injection)?
+-> It is an implementation of IOC. In spring we can achieve DI using constructor, setter and attribute injection.

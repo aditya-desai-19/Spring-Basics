@@ -1,0 +1,5 @@
+Explain @Component, @Service and @Repository?
+-> @Component: If a class is annotated with @Component then we are telling Spring to create object of this class in Application
+                context and manage it.
+   @Service: It is a special case of @Component, here we write the business logic of the application.
+   @Repository: It is also special case of @Component, here the class interacts with the Database

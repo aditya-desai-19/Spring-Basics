@@ -1,0 +1,2 @@
+What is application context?
+-> Application context is a container that manages all the Spring beans.
